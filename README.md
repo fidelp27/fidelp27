@@ -1,17 +1,7 @@
 # Console.log("Soy Fidel") :bulb:
 
 ### _Soy Desarrollador Web_
-
-<div>
-	<p>Tengo conocimientos en:</p>
-	<ul>
-		<li>HTML</li>
-		<li>CSS</li>
-		<li>JavaScript</li>
-		<li>React</li>
-		<li>Git</li>
-	</ul>
-</div>
+<span><img src="https://i.imgur.com/Rycl3Di.png"></img><span> <span><img src="https://i.imgur.com/fOyclQ7.png"></img><span> <span><img src="https://i.imgur.com/Tju6mD3.png"></img><span> <span><img src="https://i.imgur.com/pQhUrrl.png"></img><span>  
 
 
 
