@@ -7,8 +7,9 @@
   
 ### Acerca de mi 
   
-  Me he dedicado a aprender a programar y ahora busco la oportunidad de aplicar lo aprendido en una empresa formalmente :man_technologist: 
-  He participado en proyectos por parte de mi casa de estudios y en organizaciones como No Country en donde tuve la oportunidad de aplicar lo aprendido y trabajar en equipo.
+  Soy bueno aprendiendo y continuamente mejoro mi código! 
+  Échale un ojo a los proyectos y dame un oportunidad en este gran mundo #IT 
+  
   
 ### Mis gustos
   :open_book: Leer
