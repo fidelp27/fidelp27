@@ -7,7 +7,7 @@
   
 ### Acerca de mi 
   
-  Soy venezolano, viviendo en Argentina. Desarrollador web en eterna formación. Apasionado por las soluciones que puede aportar la tecnología. 
+  Soy venezolano y vivo en Argentina. Desarrollador web en eterna formación y apasionado por las soluciones que puede aportar la tecnología. 
   
   Me considero metódico, resposnable y con actitud colaborativa. 
   
