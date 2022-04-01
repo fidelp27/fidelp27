@@ -7,8 +7,11 @@
   
 ### Acerca de mi 
   
-  Soy bueno aprendiendo y continuamente mejoro mi código! 
-  Échale un ojo a los proyectos y dame un oportunidad en este gran mundo #IT 
+  Soy venezolano, viviendo en Argentina. Desarrollador web en eterna formación. Apasionado por las soluciones que puede aportar la tecnología. 
+  
+  Me considero metódico, resposnable y con actitud colaborativa. 
+  
+  El equipo solo existe si hay sinergia.
   
   
 ### Mis gustos
