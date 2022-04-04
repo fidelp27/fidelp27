@@ -9,7 +9,7 @@
   
   Soy venezolano y vivo en Argentina. Desarrollador web en eterna formación y apasionado por las soluciones que puede aportar la tecnología. 
   
-  Me considero metódico, resposnable y con actitud colaborativa. 
+  Me considero metódico, responsable y con actitud colaborativa. 
   
   El equipo solo existe si hay sinergia.
   
