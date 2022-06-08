@@ -19,7 +19,7 @@
   	:running_man: Correr
   :lotus_position: Podcast 
   
-  <iframe src="https://www.codewars.com/users/Fidelp27/badges/large" frameborder="0"></iframe>
+  
   
   
   # 
