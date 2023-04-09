@@ -1,4 +1,4 @@
-# console.log("Soy Fidel") :bulb:
+# return "Fidel" :bulb:
 <span> <a href="https://twitter.com/fidelp27?ref_src=twsrc%5Etfw"  target="_blank"> <img src="https://i.imgur.com/tTLQmvc.png" alt="twitter"></a></span> 
 <span><a href="https://linkedin.com/in/fidelp27" target="_blank"> <img src="https://i.imgur.com/HCLolaE.png" alt="linkedIn"></a></span> 
 <span><a href="https://wa.me/+5491163083418" target="_blank"> <img src="https://i.imgur.com/DAG1XSZ.png" alt="whatsapp"></a></span> 
